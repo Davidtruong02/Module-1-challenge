@@ -10,7 +10,7 @@ Clone repo: git@github.com:Davidtruong02/Module-1-challenge.git
 
 Create new repo of your own in Github and clone locally
 
-Copy Urban Octo Telegram code and assets into your new repo
+Copy Davidtruong02 code and assets into your new repo
 
 ## License
 
