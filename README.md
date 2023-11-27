@@ -22,7 +22,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-![Mock-up-website](assets\images\01-html-css-git-homework-demo.png)
+#![Mock-up-website img](assets\images\01-html-css-git-homework-demo.png)
+
 ## Installation
 
 Clone repo: git@github.com:Davidtruong02/Module-1-challenge.git
