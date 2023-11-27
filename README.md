@@ -22,7 +22,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-![Mockup](assets/images/html-css-git-homework-demo.png)
+![image](/assets/images/html-css-git-homework-demo.png)
 
 ## Installation
 
