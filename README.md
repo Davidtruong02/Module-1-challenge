@@ -32,6 +32,10 @@ Create new repo of your own in Github and clone locally
 
 Copy Davidtruong02 code and assets into your new repo
 
+## Deployed application
+
+https://davidtruong02.github.io/Module-1-challenge/
+
 ## License
 
 MIT License
